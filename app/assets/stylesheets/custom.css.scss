@@ -148,7 +148,7 @@ aside {
 
 /* forms */
 
-input, textarea, select, .uneditable-input {
+input, input[type="text"], input[type="password"], textarea, select, .uneditable-input {
   border: 1px solid #bbb;
   width: 100%;
   height: auto;
